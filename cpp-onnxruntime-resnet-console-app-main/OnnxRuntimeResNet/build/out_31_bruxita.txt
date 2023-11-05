@@ -1,0 +1,3009 @@
+Input : dim[0] = -1
+Input : dim[1] = 3
+Input : dim[2] = 224
+Input : dim[3] = 224
+
+r
+
+resnetv24_dense0_fwd
+1000
+0: tench;  0.561774; 
+
+
+1: goldfish;  1.6595; 
+
+
+2: great_white_shark;  -2.06108; 
+
+
+3: tiger_shark;  -2.70802; 
+
+
+4: hammerhead;  -1.89498; 
+
+
+5: electric_ray;  0.880905; 
+
+
+6: stingray;  -3.04462; 
+
+
+7: cock;  0.655102; 
+
+
+8: hen;  0.727751; 
+
+
+9: ostrich;  -0.302835; 
+
+
+10: brambling;  -1.82551; 
+
+
+11: goldfinch;  -2.26263; 
+
+
+12: house_finch;  -2.14417; 
+
+
+13: junco;  -3.28749; 
+
+
+14: indigo_bunting;  -1.61628; 
+
+
+15: robin;  -1.81638; 
+
+
+16: bulbul;  -1.70437; 
+
+
+17: jay;  -2.14335; 
+
+
+18: magpie;  -1.84127; 
+
+
+19: chickadee;  -2.09763; 
+
+
+20: water_ouzel;  -1.88752; 
+
+
+21: kite;  1.33698; 
+
+
+22: bald_eagle;  0.149296; 
+
+
+23: vulture;  0.779676; 
+
+
+24: great_grey_owl;  0.543443; 
+
+
+25: European_fire_salamander;  -1.29129; 
+
+
+26: common_newt;  -0.475858; 
+
+
+27: eft;  -0.703276; 
+
+
+28: spotted_salamander;  -0.701799; 
+
+
+29: axolotl;  0.175929; 
+
+
+30: bullfrog;  -2.34084; 
+
+
+31: tree_frog;  -3.40769; 
+
+
+32: tailed_frog;  -0.448325; 
+
+
+33: loggerhead;  -0.0287068; 
+
+
+34: leatherback_turtle;  1.17059; 
+
+
+35: mud_turtle;  -0.57523; 
+
+
+36: terrapin;  -0.781635; 
+
+
+37: box_turtle;  -2.21663; 
+
+
+38: banded_gecko;  0.154924; 
+
+
+39: common_iguana;  0.104319; 
+
+
+40: American_chameleon;  -2.1385; 
+
+
+41: whiptail;  -0.230059; 
+
+
+42: agama;  -1.54926; 
+
+
+43: frilled_lizard;  -0.699817; 
+
+
+44: alligator_lizard;  -1.21514; 
+
+
+45: Gila_monster;  -0.327395; 
+
+
+46: green_lizard;  -2.0502; 
+
+
+47: African_chameleon;  -0.458931; 
+
+
+48: Komodo_dragon;  -1.05738; 
+
+
+49: African_crocodile;  -0.353717; 
+
+
+50: American_alligator;  -2.84161; 
+
+
+51: triceratops;  -1.60251; 
+
+
+52: thunder_snake;  -0.0295666; 
+
+
+53: ringneck_snake;  -0.291259; 
+
+
+54: hognose_snake;  -2.23031; 
+
+
+55: green_snake;  -1.99925; 
+
+
+56: king_snake;  -1.52786; 
+
+
+57: garter_snake;  -2.0885; 
+
+
+58: water_snake;  -1.67638; 
+
+
+59: vine_snake;  -1.46491; 
+
+
+60: night_snake;  -0.224508; 
+
+
+61: boa_constrictor;  -2.12767; 
+
+
+62: rock_python;  -0.337018; 
+
+
+63: Indian_cobra;  -0.113746; 
+
+
+64: green_mamba;  -0.526621; 
+
+
+65: sea_snake;  -1.33932; 
+
+
+66: horned_viper;  0.609578; 
+
+
+67: diamondback;  -1.16262; 
+
+
+68: sidewinder;  -0.614989; 
+
+
+69: trilobite;  -2.89702; 
+
+
+70: harvestman;  -2.56274; 
+
+
+71: scorpion;  -2.1089; 
+
+
+72: black_and_gold_garden_spider;  -2.21203; 
+
+
+73: barn_spider;  0.484382; 
+
+
+74: garden_spider;  -1.8146; 
+
+
+75: black_widow;  -1.88612; 
+
+
+76: tarantula;  -1.50924; 
+
+
+77: wolf_spider;  -2.21689; 
+
+
+78: tick;  0.245069; 
+
+
+79: centipede;  -0.246422; 
+
+
+80: black_grouse;  1.7705; 
+
+
+81: ptarmigan;  -1.95828; 
+
+
+82: ruffed_grouse;  0.281154; 
+
+
+83: prairie_chicken;  3.05997; 
+
+
+84: peacock;  -1.89952; 
+
+
+85: quail;  -1.60705; 
+
+
+86: partridge;  1.61273; 
+
+
+87: African_grey;  0.380745; 
+
+
+88: macaw;  0.468636; 
+
+
+89: sulphur-crested_cockatoo;  -0.811388; 
+
+
+90: lorikeet;  -1.81998; 
+
+
+91: coucal;  -0.334163; 
+
+
+92: bee_eater;  0.081319; 
+
+
+93: hornbill;  -1.72389; 
+
+
+94: hummingbird;  -1.70109; 
+
+
+95: jacamar;  -1.95739; 
+
+
+96: toucan;  -3.47999; 
+
+
+97: drake;  -1.65421; 
+
+
+98: red-breasted_merganser;  0.950797; 
+
+
+99: goose;  0.0568673; 
+
+
+100: black_swan;  -1.4698; 
+
+
+101: tusker;  0.335501; 
+
+
+102: echidna;  -0.128069; 
+
+
+103: platypus;  -0.182885; 
+
+
+104: wallaby;  -0.687746; 
+
+
+105: koala;  -3.2022; 
+
+
+106: wombat;  -1.09193; 
+
+
+107: jellyfish;  -0.105252; 
+
+
+108: sea_anemone;  1.01484; 
+
+
+109: brain_coral;  -1.48849; 
+
+
+110: flatworm;  -0.213839; 
+
+
+111: nematode;  0.818536; 
+
+
+112: conch;  -0.415396; 
+
+
+113: snail;  -0.229163; 
+
+
+114: slug;  -1.54725; 
+
+
+115: sea_slug;  0.800181; 
+
+
+116: chiton;  -1.58663; 
+
+
+117: chambered_nautilus;  0.129806; 
+
+
+118: Dungeness_crab;  -2.41649; 
+
+
+119: rock_crab;  -1.65341; 
+
+
+120: fiddler_crab;  -1.81973; 
+
+
+121: king_crab;  -0.74522; 
+
+
+122: American_lobster;  -0.581635; 
+
+
+123: spiny_lobster;  -2.71573; 
+
+
+124: crayfish;  -1.81055; 
+
+
+125: hermit_crab;  -1.88901; 
+
+
+126: isopod;  0.865138; 
+
+
+127: white_stork;  1.09303; 
+
+
+128: black_stork;  -1.06398; 
+
+
+129: spoonbill;  -0.573451; 
+
+
+130: flamingo;  -0.334927; 
+
+
+131: little_blue_heron;  -0.988326; 
+
+
+132: American_egret;  0.220923; 
+
+
+133: bittern;  -0.510657; 
+
+
+134: crane;  0.133722; 
+
+
+135: limpkin;  -1.74532; 
+
+
+136: European_gallinule;  -0.717933; 
+
+
+137: American_coot;  -2.00948; 
+
+
+138: bustard;  -1.06968; 
+
+
+139: ruddy_turnstone;  -1.61247; 
+
+
+140: red-backed_sandpiper;  -0.462429; 
+
+
+141: redshank;  -0.548634; 
+
+
+142: dowitcher;  -0.432203; 
+
+
+143: oystercatcher;  -1.7791; 
+
+
+144: pelican;  -1.34907; 
+
+
+145: king_penguin;  -1.39037; 
+
+
+146: albatross;  -2.94251; 
+
+
+147: grey_whale;  -1.35852; 
+
+
+148: killer_whale;  -1.96079; 
+
+
+149: dugong;  0.784227; 
+
+
+150: sea_lion;  -0.113; 
+
+
+151: Chihuahua;  3.30272; 
+
+
+152: Japanese_spaniel;  7.04605; 
+
+
+153: Maltese_dog;  4.30439; 
+
+
+154: Pekinese;  6.94431; 
+
+
+155: Shih-Tzu;  2.92781; 
+
+
+156: Blenheim_spaniel;  4.49158; 
+
+
+157: papillon;  4.82474; 
+
+
+158: toy_terrier;  3.0243; 
+
+
+159: Rhodesian_ridgeback;  4.983; 
+
+
+160: Afghan_hound;  6.75813; 
+
+
+161: basset;  0.751977; 
+
+
+162: beagle;  1.4284; 
+
+
+163: bloodhound;  4.62627; 
+
+
+164: bluetick;  2.2887; 
+
+
+165: black-and-tan_coonhound;  2.85337; 
+
+
+166: Walker_hound;  2.05021; 
+
+
+167: English_foxhound;  3.01468; 
+
+
+168: redbone;  4.96517; 
+
+
+169: borzoi;  3.83552; 
+
+
+170: Irish_wolfhound;  4.89524; 
+
+
+171: Italian_greyhound;  -1.52332; 
+
+
+172: whippet;  0.9178; 
+
+
+173: Ibizan_hound;  2.42121; 
+
+
+174: Norwegian_elkhound;  2.59096; 
+
+
+175: otterhound;  8.63227; 
+
+
+176: Saluki;  8.16969; 
+
+
+177: Scottish_deerhound;  2.61399; 
+
+
+178: Weimaraner;  2.6775; 
+
+
+179: Staffordshire_bullterrier;  2.01019; 
+
+
+180: American_Staffordshire_terrier;  1.99309; 
+
+
+181: Bedlington_terrier;  2.98177; 
+
+
+182: Border_terrier;  3.93485; 
+
+
+183: Kerry_blue_terrier;  3.15192; 
+
+
+184: Irish_terrier;  4.53609; 
+
+
+185: Norfolk_terrier;  4.89281; 
+
+
+186: Norwich_terrier;  4.45838; 
+
+
+187: Yorkshire_terrier;  2.0701; 
+
+
+188: wire-haired_fox_terrier;  2.17076; 
+
+
+189: Lakeland_terrier;  2.00379; 
+
+
+190: Sealyham_terrier;  3.39886; 
+
+
+191: Airedale;  2.38166; 
+
+
+192: cairn;  4.17998; 
+
+
+193: Australian_terrier;  3.82708; 
+
+
+194: Dandie_Dinmont;  5.66411; 
+
+
+195: Boston_bull;  -0.0393795; 
+
+
+196: miniature_schnauzer;  1.31374; 
+
+
+197: giant_schnauzer;  3.11064; 
+
+
+198: standard_schnauzer;  2.66267; 
+
+
+199: Scotch_terrier;  1.94921; 
+
+
+200: Tibetan_terrier;  10.291; 
+
+
+201: silky_terrier;  2.05367; 
+
+
+202: soft-coated_wheaten_terrier;  4.8267; 
+
+
+203: West_Highland_white_terrier;  2.09765; 
+
+
+204: Lhasa;  5.15046; 
+
+
+205: flat-coated_retriever;  6.83908; 
+
+
+206: curly-coated_retriever;  4.94376; 
+
+
+207: golden_retriever;  11.9425; 
+
+
+208: Labrador_retriever;  6.40799; 
+
+
+209: Chesapeake_Bay_retriever;  3.72398; 
+
+
+210: German_short-haired_pointer;  1.07194; 
+
+
+211: vizsla;  4.38233; 
+
+
+212: English_setter;  7.47136; 
+
+
+213: Irish_setter;  6.15134; 
+
+
+214: Gordon_setter;  6.88826; 
+
+
+215: Brittany_spaniel;  5.7037; 
+
+
+216: clumber;  7.50714; 
+
+
+217: English_springer;  1.96383; 
+
+
+218: Welsh_springer_spaniel;  3.61936; 
+
+
+219: cocker_spaniel;  4.65357; 
+
+
+220: Sussex_spaniel;  7.20341; 
+
+
+221: Irish_water_spaniel;  4.39225; 
+
+
+222: kuvasz;  8.55494; 
+
+
+223: schipperke;  1.10029; 
+
+
+224: groenendael;  4.62982; 
+
+
+225: malinois;  2.14681; 
+
+
+226: briard;  6.02369; 
+
+
+227: kelpie;  3.47628; 
+
+
+228: komondor;  5.57894; 
+
+
+229: Old_English_sheepdog;  4.80227; 
+
+
+230: Shetland_sheepdog;  2.40761; 
+
+
+231: collie;  5.39937; 
+
+
+232: Border_collie;  5.81068; 
+
+
+233: Bouvier_des_Flandres;  2.16737; 
+
+
+234: Rottweiler;  3.47943; 
+
+
+235: German_shepherd;  4.12038; 
+
+
+236: Doberman;  1.61114; 
+
+
+237: miniature_pinscher;  -0.978769; 
+
+
+238: Greater_Swiss_Mountain_dog;  5.19248; 
+
+
+239: Bernese_mountain_dog;  5.33965; 
+
+
+240: Appenzeller;  3.70324; 
+
+
+241: EntleBucher;  3.99869; 
+
+
+242: boxer;  1.06388; 
+
+
+243: bull_mastiff;  2.15667; 
+
+
+244: Tibetan_mastiff;  8.61618; 
+
+
+245: French_bulldog;  -1.4886; 
+
+
+246: Great_Dane;  2.58098; 
+
+
+247: Saint_Bernard;  3.72082; 
+
+
+248: Eskimo_dog;  3.47885; 
+
+
+249: malamute;  3.83594; 
+
+
+250: Siberian_husky;  1.30263; 
+
+
+251: dalmatian;  1.81669; 
+
+
+252: affenpinscher;  3.5607; 
+
+
+253: basenji;  2.00838; 
+
+
+254: pug;  0.249934; 
+
+
+255: Leonberg;  6.78033; 
+
+
+256: Newfoundland;  6.24238; 
+
+
+257: Great_Pyrenees;  7.91019; 
+
+
+258: Samoyed;  5.19066; 
+
+
+259: Pomeranian;  4.41701; 
+
+
+260: chow;  6.21782; 
+
+
+261: keeshond;  3.18889; 
+
+
+262: Brabancon_griffon;  3.36145; 
+
+
+263: Pembroke;  2.49071; 
+
+
+264: Cardigan;  2.20049; 
+
+
+265: toy_poodle;  3.90532; 
+
+
+266: miniature_poodle;  5.20419; 
+
+
+267: standard_poodle;  5.64378; 
+
+
+268: Mexican_hairless;  0.777816; 
+
+
+269: timber_wolf;  0.124594; 
+
+
+270: white_wolf;  2.29073; 
+
+
+271: red_wolf;  1.27394; 
+
+
+272: coyote;  1.69776; 
+
+
+273: dingo;  3.03312; 
+
+
+274: dhole;  1.99422; 
+
+
+275: African_hunting_dog;  0.712595; 
+
+
+276: hyena;  2.7998; 
+
+
+277: red_fox;  0.317385; 
+
+
+278: kit_fox;  -0.485793; 
+
+
+279: Arctic_fox;  -0.504097; 
+
+
+280: grey_fox;  0.092568; 
+
+
+281: tabby;  -0.222329; 
+
+
+282: tiger_cat;  1.62531; 
+
+
+283: Persian_cat;  1.68744; 
+
+
+284: Siamese_cat;  -1.72226; 
+
+
+285: Egyptian_cat;  -0.387467; 
+
+
+286: cougar;  -1.20736; 
+
+
+287: lynx;  -0.912242; 
+
+
+288: leopard;  -0.32599; 
+
+
+289: snow_leopard;  -3.40622; 
+
+
+290: jaguar;  -1.44209; 
+
+
+291: lion;  4.18583; 
+
+
+292: tiger;  2.38707; 
+
+
+293: cheetah;  2.21749; 
+
+
+294: brown_bear;  2.01117; 
+
+
+295: American_black_bear;  -2.04179; 
+
+
+296: ice_bear;  2.66041; 
+
+
+297: sloth_bear;  0.498816; 
+
+
+298: mongoose;  0.258088; 
+
+
+299: meerkat;  0.860502; 
+
+
+300: tiger_beetle;  -0.479567; 
+
+
+301: ladybug;  0.302566; 
+
+
+302: ground_beetle;  -0.565869; 
+
+
+303: long-horned_beetle;  -2.20774; 
+
+
+304: leaf_beetle;  -1.27679; 
+
+
+305: dung_beetle;  -0.575497; 
+
+
+306: rhinoceros_beetle;  -1.11657; 
+
+
+307: weevil;  -1.65123; 
+
+
+308: fly;  -1.99649; 
+
+
+309: bee;  -1.4486; 
+
+
+310: ant;  0.603932; 
+
+
+311: grasshopper;  0.382592; 
+
+
+312: cricket;  -0.320115; 
+
+
+313: walking_stick;  -2.28641; 
+
+
+314: cockroach;  -0.938351; 
+
+
+315: mantis;  -3.08452; 
+
+
+316: cicada;  -2.79381; 
+
+
+317: leafhopper;  0.401974; 
+
+
+318: lacewing;  -0.956521; 
+
+
+319: dragonfly;  -1.18593; 
+
+
+320: damselfly;  -1.90036; 
+
+
+321: admiral;  -3.14435; 
+
+
+322: ringlet;  -1.65082; 
+
+
+323: monarch;  -0.9377; 
+
+
+324: cabbage_butterfly;  -2.05478; 
+
+
+325: sulphur_butterfly;  -0.799553; 
+
+
+326: lycaenid;  -1.34256; 
+
+
+327: starfish;  -0.639911; 
+
+
+328: sea_urchin;  -0.120388; 
+
+
+329: sea_cucumber;  -1.4497; 
+
+
+330: wood_rabbit;  0.609034; 
+
+
+331: hare;  1.78317; 
+
+
+332: Angora;  2.23899; 
+
+
+333: hamster;  -1.58843; 
+
+
+334: porcupine;  0.98968; 
+
+
+335: fox_squirrel;  0.16151; 
+
+
+336: marmot;  -1.53322; 
+
+
+337: beaver;  -0.783579; 
+
+
+338: guinea_pig;  0.567561; 
+
+
+339: sorrel;  3.59207; 
+
+
+340: zebra;  0.781996; 
+
+
+341: hog;  2.89444; 
+
+
+342: wild_boar;  0.0255379; 
+
+
+343: warthog;  0.383624; 
+
+
+344: hippopotamus;  -2.78639; 
+
+
+345: ox;  0.671606; 
+
+
+346: water_buffalo;  0.551859; 
+
+
+347: bison;  0.448032; 
+
+
+348: ram;  -0.442511; 
+
+
+349: bighorn;  -1.58315; 
+
+
+350: ibex;  -2.66575; 
+
+
+351: hartebeest;  1.42652; 
+
+
+352: impala;  0.56192; 
+
+
+353: gazelle;  0.681121; 
+
+
+354: Arabian_camel;  0.893294; 
+
+
+355: llama;  2.59687; 
+
+
+356: weasel;  0.514428; 
+
+
+357: mink;  -0.313784; 
+
+
+358: polecat;  0.81393; 
+
+
+359: black-footed_ferret;  1.55234; 
+
+
+360: otter;  -0.642882; 
+
+
+361: skunk;  2.46702; 
+
+
+362: badger;  0.202153; 
+
+
+363: armadillo;  0.139248; 
+
+
+364: three-toed_sloth;  -0.858877; 
+
+
+365: orangutan;  0.0273473; 
+
+
+366: gorilla;  -2.51469; 
+
+
+367: chimpanzee;  -1.95547; 
+
+
+368: gibbon;  0.916967; 
+
+
+369: siamang;  0.0502387; 
+
+
+370: guenon;  -1.72193; 
+
+
+371: patas;  1.50433; 
+
+
+372: baboon;  -0.479918; 
+
+
+373: macaque;  -1.05656; 
+
+
+374: langur;  -0.774212; 
+
+
+375: colobus;  -1.79762; 
+
+
+376: proboscis_monkey;  -2.59125; 
+
+
+377: marmoset;  0.594861; 
+
+
+378: capuchin;  -2.02539; 
+
+
+379: howler_monkey;  -1.40318; 
+
+
+380: titi;  -0.547404; 
+
+
+381: spider_monkey;  -2.33708; 
+
+
+382: squirrel_monkey;  -1.24834; 
+
+
+383: Madagascar_cat;  -2.18502; 
+
+
+384: indri;  -1.24387; 
+
+
+385: Indian_elephant;  0.129001; 
+
+
+386: African_elephant;  1.23266; 
+
+
+387: lesser_panda;  -1.0584; 
+
+
+388: giant_panda;  -2.53397; 
+
+
+389: barracouta;  0.99847; 
+
+
+390: eel;  -2.21072; 
+
+
+391: coho;  -1.08419; 
+
+
+392: rock_beauty;  -1.17412; 
+
+
+393: anemone_fish;  -2.33049; 
+
+
+394: sturgeon;  -1.15804; 
+
+
+395: gar;  0.343855; 
+
+
+396: lionfish;  -2.26015; 
+
+
+397: puffer;  -0.830778; 
+
+
+398: abacus;  -0.392959; 
+
+
+399: abaya;  -0.94731; 
+
+
+400: academic_gown;  -0.38915; 
+
+
+401: accordion;  -0.190437; 
+
+
+402: acoustic_guitar;  -2.12643; 
+
+
+403: aircraft_carrier;  -3.10049; 
+
+
+404: airliner;  0.0283723; 
+
+
+405: airship;  1.6956; 
+
+
+406: altar;  -3.0535; 
+
+
+407: ambulance;  1.12567; 
+
+
+408: amphibian;  0.429982; 
+
+
+409: analog_clock;  0.351308; 
+
+
+410: apiary;  -0.77297; 
+
+
+411: apron;  -1.60548; 
+
+
+412: ashcan;  0.625542; 
+
+
+413: assault_rifle;  -0.385178; 
+
+
+414: backpack;  -3.22652; 
+
+
+415: bakery;  -2.66022; 
+
+
+416: balance_beam;  1.19668; 
+
+
+417: balloon;  2.90248; 
+
+
+418: ballpoint;  1.04503; 
+
+
+419: Band_Aid;  3.05268; 
+
+
+420: banjo;  -2.00349; 
+
+
+421: bannister;  -0.473061; 
+
+
+422: barbell;  0.511983; 
+
+
+423: barber_chair;  -3.93935; 
+
+
+424: barbershop;  -3.56503; 
+
+
+425: barn;  0.321733; 
+
+
+426: barometer;  -1.51146; 
+
+
+427: barrel;  1.29523; 
+
+
+428: barrow;  0.403075; 
+
+
+429: baseball;  3.41092; 
+
+
+430: basketball;  0.348577; 
+
+
+431: bassinet;  -0.666304; 
+
+
+432: bassoon;  0.0466831; 
+
+
+433: bathing_cap;  -0.69785; 
+
+
+434: bath_towel;  0.474729; 
+
+
+435: bathtub;  -1.03117; 
+
+
+436: beach_wagon;  -0.273055; 
+
+
+437: beacon;  -0.670153; 
+
+
+438: beaker;  -0.094922; 
+
+
+439: bearskin;  0.845583; 
+
+
+440: beer_bottle;  -0.729582; 
+
+
+441: beer_glass;  0.18359; 
+
+
+442: bell_cote;  0.150365; 
+
+
+443: bib;  -2.11673; 
+
+
+444: bicycle-built-for-two;  -1.92395; 
+
+
+445: bikini;  0.675324; 
+
+
+446: binder;  -0.399916; 
+
+
+447: binoculars;  -0.951422; 
+
+
+448: birdhouse;  -2.30073; 
+
+
+449: boathouse;  0.785369; 
+
+
+450: bobsled;  -1.57868; 
+
+
+451: bolo_tie;  -0.054552; 
+
+
+452: bonnet;  -2.01017; 
+
+
+453: bookcase;  -0.538212; 
+
+
+454: bookshop;  -3.12471; 
+
+
+455: bottlecap;  -2.63655; 
+
+
+456: bow;  1.57085; 
+
+
+457: bow_tie;  -0.817555; 
+
+
+458: brass;  -2.66935; 
+
+
+459: brassiere;  -0.26344; 
+
+
+460: breakwater;  -1.28784; 
+
+
+461: breastplate;  -0.453269; 
+
+
+462: broom;  1.36727; 
+
+
+463: bucket;  1.68229; 
+
+
+464: buckle;  -1.94658; 
+
+
+465: bulletproof_vest;  0.505564; 
+
+
+466: bullet_train;  -3.06364; 
+
+
+467: butcher_shop;  -4.00712; 
+
+
+468: cab;  -1.00033; 
+
+
+469: caldron;  -1.74187; 
+
+
+470: candle;  0.307344; 
+
+
+471: cannon;  -1.61596; 
+
+
+472: canoe;  0.597823; 
+
+
+473: can_opener;  -0.0158671; 
+
+
+474: cardigan;  -2.64905; 
+
+
+475: car_mirror;  -0.726217; 
+
+
+476: carousel;  -2.37083; 
+
+
+477: carpenter\s_kit;  0.715961; 
+
+
+478: carton;  2.47234; 
+
+
+479: car_wheel;  1.8416; 
+
+
+480: cash_machine;  -0.830243; 
+
+
+481: cassette;  0.216751; 
+
+
+482: cassette_player;  -0.871811; 
+
+
+483: castle;  -1.92352; 
+
+
+484: catamaran;  0.289533; 
+
+
+485: CD_player;  -0.933442; 
+
+
+486: cello;  -0.91257; 
+
+
+487: cellular_telephone;  -0.732509; 
+
+
+488: chain;  0.892968; 
+
+
+489: chainlink_fence;  -1.01878; 
+
+
+490: chain_mail;  -0.121202; 
+
+
+491: chain_saw;  1.86856; 
+
+
+492: chest;  -0.299765; 
+
+
+493: chiffonier;  0.605647; 
+
+
+494: chime;  -0.741624; 
+
+
+495: china_cabinet;  -0.808187; 
+
+
+496: Christmas_stocking;  -1.77017; 
+
+
+497: church;  -1.05764; 
+
+
+498: cinema;  -1.3594; 
+
+
+499: cleaver;  -0.939107; 
+
+
+500: cliff_dwelling;  -3.13218; 
+
+
+501: cloak;  -0.593646; 
+
+
+502: clog;  -1.01265; 
+
+
+503: cocktail_shaker;  0.514825; 
+
+
+504: coffee_mug;  0.51311; 
+
+
+505: coffeepot;  -2.69783; 
+
+
+506: coil;  0.335912; 
+
+
+507: combination_lock;  0.665566; 
+
+
+508: computer_keyboard;  0.330776; 
+
+
+509: confectionery;  -2.63603; 
+
+
+510: container_ship;  -1.20056; 
+
+
+511: convertible;  1.36123; 
+
+
+512: corkscrew;  0.98813; 
+
+
+513: cornet;  -2.18352; 
+
+
+514: cowboy_boot;  1.57993; 
+
+
+515: cowboy_hat;  1.33677; 
+
+
+516: cradle;  0.774699; 
+
+
+517: crane;  -1.16643; 
+
+
+518: crash_helmet;  0.533342; 
+
+
+519: crate;  2.46841; 
+
+
+520: crib;  -0.713908; 
+
+
+521: Crock_Pot;  -1.60808; 
+
+
+522: croquet_ball;  2.73075; 
+
+
+523: crutch;  -1.38167; 
+
+
+524: cuirass;  -1.35293; 
+
+
+525: dam;  -1.14431; 
+
+
+526: desk;  -1.29289; 
+
+
+527: desktop_computer;  -1.08243; 
+
+
+528: dial_telephone;  -0.975831; 
+
+
+529: diaper;  -1.00049; 
+
+
+530: digital_clock;  0.0534294; 
+
+
+531: digital_watch;  -0.000129558; 
+
+
+532: dining_table;  -2.14412; 
+
+
+533: dishrag;  -1.93717; 
+
+
+534: dishwasher;  1.53417; 
+
+
+535: disk_brake;  -1.81258; 
+
+
+536: dock;  -1.29628; 
+
+
+537: dogsled;  1.28343; 
+
+
+538: dome;  -1.10404; 
+
+
+539: doormat;  4.43045; 
+
+
+540: drilling_platform;  -0.456912; 
+
+
+541: drum;  0.59016; 
+
+
+542: drumstick;  1.71682; 
+
+
+543: dumbbell;  1.0585; 
+
+
+544: Dutch_oven;  -1.74925; 
+
+
+545: electric_fan;  -1.24558; 
+
+
+546: electric_guitar;  -2.30927; 
+
+
+547: electric_locomotive;  -2.24576; 
+
+
+548: entertainment_center;  -0.641309; 
+
+
+549: envelope;  1.55241; 
+
+
+550: espresso_maker;  -1.61839; 
+
+
+551: face_powder;  2.19642; 
+
+
+552: feather_boa;  1.62778; 
+
+
+553: file;  0.837347; 
+
+
+554: fireboat;  -1.09102; 
+
+
+555: fire_engine;  -1.08521; 
+
+
+556: fire_screen;  -0.0881943; 
+
+
+557: flagpole;  -0.697234; 
+
+
+558: flute;  -1.80533; 
+
+
+559: folding_chair;  1.09706; 
+
+
+560: football_helmet;  0.281519; 
+
+
+561: forklift;  -0.860351; 
+
+
+562: fountain;  -2.00111; 
+
+
+563: fountain_pen;  -1.72463; 
+
+
+564: four-poster;  -2.2921; 
+
+
+565: freight_car;  -2.92427; 
+
+
+566: French_horn;  -1.447; 
+
+
+567: frying_pan;  -0.198074; 
+
+
+568: fur_coat;  -1.0907; 
+
+
+569: garbage_truck;  -2.67774; 
+
+
+570: gasmask;  -1.30645; 
+
+
+571: gas_pump;  -1.47072; 
+
+
+572: goblet;  -0.266695; 
+
+
+573: go-kart;  -0.284938; 
+
+
+574: golf_ball;  4.92678; 
+
+
+575: golfcart;  0.369791; 
+
+
+576: gondola;  -1.75548; 
+
+
+577: gong;  0.337684; 
+
+
+578: gown;  -0.540821; 
+
+
+579: grand_piano;  -2.30793; 
+
+
+580: greenhouse;  -2.7565; 
+
+
+581: grille;  -2.25048; 
+
+
+582: grocery_store;  -1.42635; 
+
+
+583: guillotine;  -0.366161; 
+
+
+584: hair_slide;  0.0523153; 
+
+
+585: hair_spray;  0.819668; 
+
+
+586: half_track;  0.226587; 
+
+
+587: hammer;  -0.0643086; 
+
+
+588: hamper;  0.468957; 
+
+
+589: hand_blower;  1.93306; 
+
+
+590: hand-held_computer;  0.784983; 
+
+
+591: handkerchief;  -0.101572; 
+
+
+592: hard_disc;  -0.708437; 
+
+
+593: harmonica;  -0.524052; 
+
+
+594: harp;  -1.60571; 
+
+
+595: harvester;  1.34861; 
+
+
+596: hatchet;  -0.532066; 
+
+
+597: holster;  -1.74327; 
+
+
+598: home_theater;  -0.944298; 
+
+
+599: honeycomb;  0.345387; 
+
+
+600: hook;  -0.556802; 
+
+
+601: hoopskirt;  -1.7341; 
+
+
+602: horizontal_bar;  0.233347; 
+
+
+603: horse_cart;  0.721374; 
+
+
+604: hourglass;  -1.51838; 
+
+
+605: iPod;  -1.63678; 
+
+
+606: iron;  -1.87326; 
+
+
+607: jack-o\-lantern;  0.744684; 
+
+
+608: jean;  0.139796; 
+
+
+609: jeep;  0.573954; 
+
+
+610: jersey;  0.905733; 
+
+
+611: jigsaw_puzzle;  -0.273239; 
+
+
+612: jinrikisha;  -1.658; 
+
+
+613: joystick;  -0.699898; 
+
+
+614: kimono;  -2.2054; 
+
+
+615: knee_pad;  -0.218731; 
+
+
+616: knot;  1.8807; 
+
+
+617: lab_coat;  -1.0119; 
+
+
+618: ladle;  -0.523707; 
+
+
+619: lampshade;  -0.799004; 
+
+
+620: laptop;  1.59514; 
+
+
+621: lawn_mower;  1.72005; 
+
+
+622: lens_cap;  -0.571378; 
+
+
+623: letter_opener;  1.0428; 
+
+
+624: library;  -0.171571; 
+
+
+625: lifeboat;  0.563566; 
+
+
+626: lighter;  1.26323; 
+
+
+627: limousine;  -1.82461; 
+
+
+628: liner;  -2.5814; 
+
+
+629: lipstick;  -0.338918; 
+
+
+630: Loafer;  -2.57761; 
+
+
+631: lotion;  0.16526; 
+
+
+632: loudspeaker;  -1.41837; 
+
+
+633: loupe;  -0.635465; 
+
+
+634: lumbermill;  -0.422378; 
+
+
+635: magnetic_compass;  -1.0377; 
+
+
+636: mailbag;  -1.50789; 
+
+
+637: mailbox;  -1.46449; 
+
+
+638: maillot;  1.20033; 
+
+
+639: maillot;  1.28276; 
+
+
+640: manhole_cover;  -1.58397; 
+
+
+641: maraca;  1.49505; 
+
+
+642: marimba;  -1.58838; 
+
+
+643: mask;  -1.43031; 
+
+
+644: matchstick;  1.2441; 
+
+
+645: maypole;  -0.540491; 
+
+
+646: maze;  2.78179; 
+
+
+647: measuring_cup;  0.560028; 
+
+
+648: medicine_chest;  -0.982862; 
+
+
+649: megalith;  -2.07514; 
+
+
+650: microphone;  -0.737519; 
+
+
+651: microwave;  -0.747044; 
+
+
+652: military_uniform;  -0.986206; 
+
+
+653: milk_can;  0.773073; 
+
+
+654: minibus;  -0.592345; 
+
+
+655: miniskirt;  -0.541832; 
+
+
+656: minivan;  -1.018; 
+
+
+657: missile;  -0.0594366; 
+
+
+658: mitten;  -1.11383; 
+
+
+659: mixing_bowl;  0.17045; 
+
+
+660: mobile_home;  1.05275; 
+
+
+661: Model_T;  0.362236; 
+
+
+662: modem;  -0.913655; 
+
+
+663: monastery;  -1.86717; 
+
+
+664: monitor;  -1.10927; 
+
+
+665: moped;  -1.39369; 
+
+
+666: mortar;  0.134426; 
+
+
+667: mortarboard;  -0.173431; 
+
+
+668: mosque;  -0.750278; 
+
+
+669: mosquito_net;  -2.13419; 
+
+
+670: motor_scooter;  -1.60244; 
+
+
+671: mountain_bike;  -1.72962; 
+
+
+672: mountain_tent;  0.640708; 
+
+
+673: mouse;  1.75764; 
+
+
+674: mousetrap;  0.0800444; 
+
+
+675: moving_van;  -0.736621; 
+
+
+676: muzzle;  5.02857; 
+
+
+677: nail;  0.365609; 
+
+
+678: neck_brace;  1.21871; 
+
+
+679: necklace;  -2.29584; 
+
+
+680: nipple;  2.27184; 
+
+
+681: notebook;  2.28722; 
+
+
+682: obelisk;  -1.03352; 
+
+
+683: oboe;  -0.94355; 
+
+
+684: ocarina;  -0.616904; 
+
+
+685: odometer;  -3.1562; 
+
+
+686: oil_filter;  0.809105; 
+
+
+687: organ;  -1.69601; 
+
+
+688: oscilloscope;  -0.931424; 
+
+
+689: overskirt;  -2.01395; 
+
+
+690: oxcart;  0.829912; 
+
+
+691: oxygen_mask;  -0.955375; 
+
+
+692: packet;  0.628219; 
+
+
+693: paddle;  2.84693; 
+
+
+694: paddlewheel;  0.325199; 
+
+
+695: padlock;  -1.57941; 
+
+
+696: paintbrush;  -0.212042; 
+
+
+697: pajama;  -0.497226; 
+
+
+698: palace;  1.25542; 
+
+
+699: panpipe;  0.163028; 
+
+
+700: paper_towel;  1.79787; 
+
+
+701: parachute;  1.48529; 
+
+
+702: parallel_bars;  0.0508412; 
+
+
+703: park_bench;  0.507921; 
+
+
+704: parking_meter;  -2.50813; 
+
+
+705: passenger_car;  1.30336; 
+
+
+706: patio;  -1.66375; 
+
+
+707: pay-phone;  -0.977506; 
+
+
+708: pedestal;  0.239665; 
+
+
+709: pencil_box;  -1.72416; 
+
+
+710: pencil_sharpener;  -0.907524; 
+
+
+711: perfume;  0.513157; 
+
+
+712: Petri_dish;  0.357795; 
+
+
+713: photocopier;  -0.33047; 
+
+
+714: pick;  0.701922; 
+
+
+715: pickelhaube;  -0.883349; 
+
+
+716: picket_fence;  -0.352764; 
+
+
+717: pickup;  2.04107; 
+
+
+718: pier;  -1.04325; 
+
+
+719: piggy_bank;  -0.52292; 
+
+
+720: pill_bottle;  0.540648; 
+
+
+721: pillow;  -2.44779; 
+
+
+722: ping-pong_ball;  1.23551; 
+
+
+723: pinwheel;  0.850801; 
+
+
+724: pirate;  -1.53306; 
+
+
+725: pitcher;  -2.80813; 
+
+
+726: plane;  -0.420473; 
+
+
+727: planetarium;  -0.855371; 
+
+
+728: plastic_bag;  1.40273; 
+
+
+729: plate_rack;  0.80777; 
+
+
+730: plow;  0.748483; 
+
+
+731: plunger;  -0.05944; 
+
+
+732: Polaroid_camera;  -1.95181; 
+
+
+733: pole;  1.79814; 
+
+
+734: police_van;  -1.67713; 
+
+
+735: poncho;  -0.440938; 
+
+
+736: pool_table;  0.0531373; 
+
+
+737: pop_bottle;  -1.23022; 
+
+
+738: pot;  -1.71201; 
+
+
+739: potter\s_wheel;  -1.36429; 
+
+
+740: power_drill;  0.493535; 
+
+
+741: prayer_rug;  1.83108; 
+
+
+742: printer;  -1.12432; 
+
+
+743: prison;  0.0396389; 
+
+
+744: projectile;  1.04363; 
+
+
+745: projector;  -1.27704; 
+
+
+746: puck;  -0.838174; 
+
+
+747: punching_bag;  -1.58467; 
+
+
+748: purse;  -2.30588; 
+
+
+749: quill;  2.90178; 
+
+
+750: quilt;  0.0683228; 
+
+
+751: racer;  -0.156381; 
+
+
+752: racket;  0.126788; 
+
+
+753: radiator;  -1.61101; 
+
+
+754: radio;  -1.26755; 
+
+
+755: radio_telescope;  -0.234338; 
+
+
+756: rain_barrel;  -0.812962; 
+
+
+757: recreational_vehicle;  0.146787; 
+
+
+758: reel;  1.29942; 
+
+
+759: reflex_camera;  -1.83419; 
+
+
+760: refrigerator;  -1.51904; 
+
+
+761: remote_control;  0.266741; 
+
+
+762: restaurant;  -2.10023; 
+
+
+763: revolver;  -0.0272425; 
+
+
+764: rifle;  -0.821098; 
+
+
+765: rocking_chair;  1.06062; 
+
+
+766: rotisserie;  -2.24742; 
+
+
+767: rubber_eraser;  -0.629942; 
+
+
+768: rugby_ball;  3.68944; 
+
+
+769: rule;  0.324634; 
+
+
+770: running_shoe;  -2.29963; 
+
+
+771: safe;  0.640224; 
+
+
+772: safety_pin;  -0.876497; 
+
+
+773: saltshaker;  -0.9435; 
+
+
+774: sandal;  -3.55299; 
+
+
+775: sarong;  -0.428924; 
+
+
+776: sax;  -1.40712; 
+
+
+777: scabbard;  -1.4429; 
+
+
+778: scale;  -3.29625; 
+
+
+779: school_bus;  -0.334097; 
+
+
+780: schooner;  -1.01203; 
+
+
+781: scoreboard;  1.46825; 
+
+
+782: screen;  0.894922; 
+
+
+783: screw;  -1.95289; 
+
+
+784: screwdriver;  -0.117721; 
+
+
+785: seat_belt;  0.527322; 
+
+
+786: sewing_machine;  -1.00828; 
+
+
+787: shield;  1.45431; 
+
+
+788: shoe_shop;  -4.05185; 
+
+
+789: shoji;  0.0183884; 
+
+
+790: shopping_basket;  -0.453569; 
+
+
+791: shopping_cart;  -0.537541; 
+
+
+792: shovel;  0.322244; 
+
+
+793: shower_cap;  -1.61409; 
+
+
+794: shower_curtain;  -1.62713; 
+
+
+795: ski;  -0.742407; 
+
+
+796: ski_mask;  -1.82008; 
+
+
+797: sleeping_bag;  -0.93731; 
+
+
+798: slide_rule;  0.716614; 
+
+
+799: sliding_door;  -0.551092; 
+
+
+800: slot;  -1.535; 
+
+
+801: snorkel;  -1.6472; 
+
+
+802: snowmobile;  -1.54479; 
+
+
+803: snowplow;  -0.855624; 
+
+
+804: soap_dispenser;  -1.0152; 
+
+
+805: soccer_ball;  5.17455; 
+
+
+806: sock;  -1.92136; 
+
+
+807: solar_dish;  -1.22896; 
+
+
+808: sombrero;  0.742609; 
+
+
+809: soup_bowl;  -0.738587; 
+
+
+810: space_bar;  1.14861; 
+
+
+811: space_heater;  1.05248; 
+
+
+812: space_shuttle;  -0.861732; 
+
+
+813: spatula;  1.24841; 
+
+
+814: speedboat;  -0.720484; 
+
+
+815: spider_web;  -1.83746; 
+
+
+816: spindle;  -2.35416; 
+
+
+817: sports_car;  1.54744; 
+
+
+818: spotlight;  -0.769412; 
+
+
+819: stage;  -1.39009; 
+
+
+820: steam_locomotive;  -0.983012; 
+
+
+821: steel_arch_bridge;  -0.907182; 
+
+
+822: steel_drum;  -1.45973; 
+
+
+823: stethoscope;  0.606173; 
+
+
+824: stole;  -0.863408; 
+
+
+825: stone_wall;  -0.0160014; 
+
+
+826: stopwatch;  -0.965554; 
+
+
+827: stove;  -0.31962; 
+
+
+828: strainer;  1.23361; 
+
+
+829: streetcar;  -1.96171; 
+
+
+830: stretcher;  0.122737; 
+
+
+831: studio_couch;  0.535884; 
+
+
+832: stupa;  -3.25998; 
+
+
+833: submarine;  -0.712833; 
+
+
+834: suit;  -0.845536; 
+
+
+835: sundial;  -2.64521; 
+
+
+836: sunglass;  0.480575; 
+
+
+837: sunglasses;  0.235899; 
+
+
+838: sunscreen;  1.15979; 
+
+
+839: suspension_bridge;  -4.07224; 
+
+
+840: swab;  -0.550406; 
+
+
+841: sweatshirt;  0.913383; 
+
+
+842: swimming_trunks;  -0.728877; 
+
+
+843: swing;  -0.140317; 
+
+
+844: switch;  -0.595509; 
+
+
+845: syringe;  0.045058; 
+
+
+846: table_lamp;  -1.0499; 
+
+
+847: tank;  -1.46889; 
+
+
+848: tape_player;  -0.0926765; 
+
+
+849: teapot;  -2.60361; 
+
+
+850: teddy;  0.123914; 
+
+
+851: television;  1.18646; 
+
+
+852: tennis_ball;  6.2095; 
+
+
+853: thatch;  -1.35331; 
+
+
+854: theater_curtain;  -0.210709; 
+
+
+855: thimble;  0.238178; 
+
+
+856: thresher;  2.63532; 
+
+
+857: throne;  -1.36534; 
+
+
+858: tile_roof;  -1.23663; 
+
+
+859: toaster;  -2.72804; 
+
+
+860: tobacco_shop;  -1.18854; 
+
+
+861: toilet_seat;  -0.934537; 
+
+
+862: torch;  0.99378; 
+
+
+863: totem_pole;  -3.14944; 
+
+
+864: tow_truck;  -1.13824; 
+
+
+865: toyshop;  -0.662175; 
+
+
+866: tractor;  0.778953; 
+
+
+867: trailer_truck;  0.729959; 
+
+
+868: tray;  -1.56217; 
+
+
+869: trench_coat;  -0.799407; 
+
+
+870: tricycle;  0.432969; 
+
+
+871: trimaran;  -0.896929; 
+
+
+872: tripod;  -0.833963; 
+
+
+873: triumphal_arch;  -1.42349; 
+
+
+874: trolleybus;  -1.5089; 
+
+
+875: trombone;  -1.50842; 
+
+
+876: tub;  0.63637; 
+
+
+877: turnstile;  -1.33628; 
+
+
+878: typewriter_keyboard;  -0.335684; 
+
+
+879: umbrella;  0.354667; 
+
+
+880: unicycle;  -0.199757; 
+
+
+881: upright;  0.0713191; 
+
+
+882: vacuum;  0.47893; 
+
+
+883: vase;  -0.980127; 
+
+
+884: vault;  -1.29303; 
+
+
+885: velvet;  0.810037; 
+
+
+886: vending_machine;  -3.57735; 
+
+
+887: vestment;  -3.25414; 
+
+
+888: viaduct;  -1.15197; 
+
+
+889: violin;  -2.69703; 
+
+
+890: volleyball;  2.33218; 
+
+
+891: waffle_iron;  0.27556; 
+
+
+892: wall_clock;  -0.535478; 
+
+
+893: wallet;  -1.35444; 
+
+
+894: wardrobe;  -1.24734; 
+
+
+895: warplane;  -0.523108; 
+
+
+896: washbasin;  -2.86163; 
+
+
+897: washer;  -1.34297; 
+
+
+898: water_bottle;  0.196456; 
+
+
+899: water_jug;  -0.425669; 
+
+
+900: water_tower;  -1.00904; 
+
+
+901: whiskey_jug;  0.160295; 
+
+
+902: whistle;  1.53207; 
+
+
+903: wig;  0.462226; 
+
+
+904: window_screen;  -0.203207; 
+
+
+905: window_shade;  -1.11983; 
+
+
+906: Windsor_tie;  0.450903; 
+
+
+907: wine_bottle;  -1.62885; 
+
+
+908: wing;  -1.0136; 
+
+
+909: wok;  -4.15005; 
+
+
+910: wooden_spoon;  -0.289262; 
+
+
+911: wool;  -0.11212; 
+
+
+912: worm_fence;  2.23631; 
+
+
+913: wreck;  -1.02777; 
+
+
+914: yawl;  -0.509683; 
+
+
+915: yurt;  -0.169281; 
+
+
+916: web_site;  1.74121; 
+
+
+917: comic_book;  -0.673321; 
+
+
+918: crossword_puzzle;  -1.59607; 
+
+
+919: street_sign;  -1.29105; 
+
+
+920: traffic_light;  -2.31839; 
+
+
+921: book_jacket;  -0.633252; 
+
+
+922: menu;  -2.94515; 
+
+
+923: plate;  -1.39144; 
+
+
+924: guacamole;  -1.78633; 
+
+
+925: consomme;  -0.522755; 
+
+
+926: hot_pot;  -2.56488; 
+
+
+927: trifle;  -0.91352; 
+
+
+928: ice_cream;  -1.99465; 
+
+
+929: ice_lolly;  1.14022; 
+
+
+930: French_loaf;  1.26221; 
+
+
+931: bagel;  0.268599; 
+
+
+932: pretzel;  -0.915671; 
+
+
+933: cheeseburger;  -2.89465; 
+
+
+934: hotdog;  -0.447383; 
+
+
+935: mashed_potato;  -1.17636; 
+
+
+936: head_cabbage;  1.06731; 
+
+
+937: broccoli;  -0.0787533; 
+
+
+938: cauliflower;  -0.896015; 
+
+
+939: zucchini;  -0.449707; 
+
+
+940: spaghetti_squash;  1.29542; 
+
+
+941: acorn_squash;  -1.92194; 
+
+
+942: butternut_squash;  0.56492; 
+
+
+943: cucumber;  -0.388899; 
+
+
+944: artichoke;  -0.612214; 
+
+
+945: bell_pepper;  -1.40103; 
+
+
+946: cardoon;  0.346032; 
+
+
+947: mushroom;  -0.781227; 
+
+
+948: Granny_Smith;  1.55085; 
+
+
+949: strawberry;  0.450988; 
+
+
+950: orange;  -1.81296; 
+
+
+951: lemon;  -2.05534; 
+
+
+952: fig;  -2.85825; 
+
+
+953: pineapple;  -2.03791; 
+
+
+954: banana;  -3.42614; 
+
+
+955: jackfruit;  -1.92637; 
+
+
+956: custard_apple;  -0.770618; 
+
+
+957: pomegranate;  -2.63814; 
+
+
+958: hay;  0.966288; 
+
+
+959: carbonara;  -0.270519; 
+
+
+960: chocolate_sauce;  -1.6998; 
+
+
+961: dough;  0.52951; 
+
+
+962: meat_loaf;  -1.1273; 
+
+
+963: pizza;  -2.67932; 
+
+
+964: potpie;  -1.08793; 
+
+
+965: burrito;  -2.45116; 
+
+
+966: red_wine;  0.232552; 
+
+
+967: espresso;  -1.83785; 
+
+
+968: cup;  0.101387; 
+
+
+969: eggnog;  1.43141; 
+
+
+970: alp;  -1.45972; 
+
+
+971: bubble;  2.0116; 
+
+
+972: cliff;  -1.93762; 
+
+
+973: coral_reef;  -2.2462; 
+
+
+974: geyser;  -0.566302; 
+
+
+975: lakeside;  2.38578; 
+
+
+976: promontory;  -2.3054; 
+
+
+977: sandbar;  2.62897; 
+
+
+978: seashore;  0.39814; 
+
+
+979: valley;  0.0443614; 
+
+
+980: volcano;  -1.15412; 
+
+
+981: ballplayer;  0.438895; 
+
+
+982: groom;  -2.07587; 
+
+
+983: scuba_diver;  -2.80983; 
+
+
+984: rapeseed;  0.679956; 
+
+
+985: daisy;  -0.0603047; 
+
+
+986: yellow_lady\s_slipper;  -2.67482; 
+
+
+987: corn;  1.81107; 
+
+
+988: acorn;  -0.693135; 
+
+
+989: hip;  -2.52175; 
+
+
+990: buckeye;  -0.85354; 
+
+
+991: coral_fungus;  -1.0338; 
+
+
+992: agaric;  -0.557456; 
+
+
+993: gyromitra;  -2.65937; 
+
+
+994: stinkhorn;  -1.8818; 
+
+
+995: earthstar;  1.02553; 
+
+
+996: hen-of-the-woods;  -1.02181; 
+
+
+997: bolete;  -2.52809; 
+
+
+998: ear;  2.73372; 
+
+
+999: toilet_tissue;  0.598055; 
+
+
